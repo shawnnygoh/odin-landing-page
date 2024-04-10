@@ -77,3 +77,23 @@ button {
     border-width: 10px;
     border-radius: 10; */
 }
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 0px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    max-width: 800px;
+}
+
+.signed {
+    font-weight: bold;
+}
