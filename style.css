@@ -46,6 +46,9 @@ button {
     background-color: #3882F6;
     color: #F9FAF8;
     font-size: 18px;
+    padding: 3px 20px;
+    border-color: #F9FAF8;
+    border-radius: 5px;
 }
 
 .hero-image {
@@ -96,4 +99,16 @@ button {
 
 .signed {
     font-weight: bold;
+}
+
+.cta {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 175px;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 70px 200px;
 }
